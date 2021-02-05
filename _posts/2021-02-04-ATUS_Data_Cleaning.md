@@ -3,15 +3,14 @@
 title: "Cleaning Data from American Time Use Survey"
 date: 2021-02-04
 tags: [ATUS, American Time Use Survey, data analysis, data cleaning, data wrangling]
+classes: wide
 header:
-  image:
-excerpt: Cleaning, Merging Survey Data
-mathjax:
+ image:
+ excerpt: Cleaning, Merging Survey Data
 ---
 
 # ATUS Data Preprocessing
 The following notebook describes the steps taken to clean and consolidate the three datasets used in this analysis.
-***
 
 
 ```python
